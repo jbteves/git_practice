@@ -1,6 +1,6 @@
 def sub(a,b):
     ans = float(a - b)
-    print(ans)
+    return ans
 
 def main():
     a = float(input())
